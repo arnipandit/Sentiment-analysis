@@ -49,7 +49,8 @@ Employed for visualizing sentiment distributions and plotting key insights from 
 What is the distribution of star ratings in the dataset?
 ![Screenshot 2025-04-18 232100](https://github.com/user-attachments/assets/825ab8b8-631f-4390-8aa9-cb418537b6fb)
 
-
+How does the compound sentiment score vary across different star ratings?
+![image](https://github.com/user-attachments/assets/51b06f44-bcd7-4527-9788-9dfca58cdfb2)
 
 
 
