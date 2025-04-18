@@ -45,7 +45,7 @@ Used for data handling, structuring model outputs, and displaying results in a t
 Seaborn & Matplotlib
 Employed for visualizing sentiment distributions and plotting key insights from the analysis.
 
-# Visualization Questions 
+# Visualization Queries
 What is the distribution of star ratings in the dataset?
 ![Screenshot 2025-04-18 232100](https://github.com/user-attachments/assets/825ab8b8-631f-4390-8aa9-cb418537b6fb)
 
