@@ -52,5 +52,21 @@ What is the distribution of star ratings in the dataset?
 How does the compound sentiment score vary across different star ratings?
 ![image](https://github.com/user-attachments/assets/51b06f44-bcd7-4527-9788-9dfca58cdfb2)
 
+How do positive, neutral, and negative VADER scores vary with star ratings?
+![image](https://github.com/user-attachments/assets/1551ee7f-c59e-46c1-925a-235ef4f0381a)
+
+What is the distribution of compound sentiment scores?
+![image](https://github.com/user-attachments/assets/de244ef9-b0de-432f-bee6-ddd63185f81d)
+
+How does the RoBERTa model distribute probabilities across sentiment classes?
+![image](https://github.com/user-attachments/assets/603c314a-f6f1-449a-943e-83cf99d3a999)
+
+How are sentiment probabilities distributed in a radar format for comparison?
+![image](https://github.com/user-attachments/assets/fd2e11f0-f395-4a9f-9db8-9e5800ca6126)
+
+
+
+
+
 
 
