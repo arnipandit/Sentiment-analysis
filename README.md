@@ -3,8 +3,6 @@
 # Overview
 This dataset contains real customer reviews from Amazon, featuring fields such as review text, reviewer name, star ratings, helpful votes, and review dates. It has been enhanced with sentiment polarity scores (positive, neutral, negative, and compound) using the VADER sentiment analyzer.
 
-#🔍 Key Features:
-
 Real-world e-commerce review data
 
 Text-based feedback for NLP tasks
